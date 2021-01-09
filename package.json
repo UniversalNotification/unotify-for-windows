@@ -1,8 +1,11 @@
 {
-  "name": "unotify-for-powershell",
+  "name": "unotify-for-windows",
   "version": "0.1.0",
-  "main": "index.js",
   "description": "Command-line UniversalNotification notifier for Windows.",
+  "files": [
+    "lib"
+  ],
+  "repository": "git@github.com:UniversalNotification/unotify-for-windows.git",
   "author": "BlackGlory <woshenmedoubuzhidao@blackglory.me>",
   "license": "MIT",
   "bin": {
