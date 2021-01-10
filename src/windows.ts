@@ -1,4 +1,4 @@
-import { UniversalNotification } from '@utils/parse-universal-notification'
+import { UniversalNotification } from 'universal-notification'
 import { spawn } from 'child_process'
 import { waitForEventEmitter } from '@blackglory/wait-for'
 
